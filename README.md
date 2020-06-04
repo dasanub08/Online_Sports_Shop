@@ -1,7 +1,16 @@
 # Online_Sports_Shop
 
 
-1. Run Npm Install to run backend
-2. Go inside Frontend, run npm install to run Frontend
+## Project Setup
+```
+npm install   /( for backend)/
+cd frontend >  npm install    /( for frontend)/
+```
+## Project Run
+```
+npm run  /(for backend)/
+cd frontend > npm run  /(for frontend)/
+```
+
 
 Enjoy
