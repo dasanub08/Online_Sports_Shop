@@ -1,8 +1,7 @@
 # Online_Sports_Shop
 
 
-1. Extract Submission_Final.zip files.
-2. (FOR BACKEND) Then go inside 'Submission_Final' folder and run : npm install and then npm start.
-3. (FOR FRONTEND) Next go inside 'frontend' folder and run:  npm install and npm start.
+1. Run Npm Install to run backend
+2. Go inside Frontend, run npm install to run Frontend
 
 Enjoy
